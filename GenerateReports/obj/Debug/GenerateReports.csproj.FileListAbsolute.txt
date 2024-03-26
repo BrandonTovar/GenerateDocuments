@@ -1,0 +1,8 @@
+C:\Users\ASAEL\Desktop\Proyectos\GenerateReports\GenerateReports\bin\Debug\GenerateReports.dll
+C:\Users\ASAEL\Desktop\Proyectos\GenerateReports\GenerateReports\bin\Debug\GenerateReports.pdb
+C:\Users\ASAEL\Desktop\Proyectos\GenerateReports\GenerateReports\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ASAEL\Desktop\Proyectos\GenerateReports\GenerateReports\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ASAEL\Desktop\Proyectos\GenerateReports\GenerateReports\bin\Debug\stdole.dll
+C:\Users\ASAEL\Desktop\Proyectos\GenerateReports\GenerateReports\obj\Debug\GenerateReports.csprojResolveAssemblyReference.cache
+C:\Users\ASAEL\Desktop\Proyectos\GenerateReports\GenerateReports\obj\Debug\GenerateReports.dll
+C:\Users\ASAEL\Desktop\Proyectos\GenerateReports\GenerateReports\obj\Debug\GenerateReports.pdb
